@@ -467,14 +467,14 @@ img,video
 
 .from-fuchsia-600
 {
-	--tw-gradient-from: #c026d3 var(--tw-gradient-from-position);
-	--tw-gradient-to: #c026d300 var(--tw-gradient-to-position);
+	--tw-gradient-from: #f6ff00 var(--tw-gradient-from-position);
+	--tw-gradient-to: #f6ff00 var(--tw-gradient-to-position);
 	--tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to);
 }
 
 .to-indigo-600
 {
-	--tw-gradient-to: #4f46e5 var(--tw-gradient-to-position);
+	--tw-gradient-to: #f6ff00 var(--tw-gradient-to-position);
 }
 
 .p-4
